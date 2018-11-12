@@ -1,0 +1,7 @@
+    document.getElementById("djs").innerHTML=0;
+    document.getElementById('yytf').style.display='none';
+    document.getElementById('yytf').className='yytf_2';
+    document.getElementById('daojs').style.display='none';
+    document.getElementById("hddbox").style.cssText='background-color:black;pointer-events:block;';
+    dp.seek(120);
+    dp.play();

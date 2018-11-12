@@ -1,0 +1,7 @@
+(function() {
+    'use strict';
+    adtime=0;
+    JuicyCodes.Close();
+    clearInterval(interval);
+    $('#video_player').show();
+})();
